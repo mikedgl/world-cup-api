@@ -1,0 +1,1 @@
+insert into country(name) values('Brasil'),('Argentina'),('França');
